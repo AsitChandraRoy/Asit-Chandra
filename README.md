@@ -1,4 +1,4 @@
-![I am Asit-Chandra]([https://github.com/Asit-Chandra/Asit-Chandra/blob/main/code.png](https://github.com/harun181/harun181/blob/main/code.png))
+![I am AsitChandraRoy]([https://github.com/harun181/harun181/blob/main/code.png]
 
 <h1 align="center">Hi 👋, I'm Asit Chandra roy</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Asit-Chandra1&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=AsitChandraRoy1&color=red)
 
 Skills:  JavaScript / BOOTSTRAP / REACT / HTML / CSS
 
@@ -22,19 +22,19 @@ Skills:  JavaScript / BOOTSTRAP / REACT / HTML / CSS
 
 - 📫 How to reach me **asitchandraroy@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/asit-chandra](https://lnk.bio/asit-chandra)
+- 📄 All About Me:[https://lnk.bio/AsitChandraRoy](https://lnk.bio/AsitChandraRoy)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://www.facebook.com/asitchandra.roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asit-chandra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/asitchandra.roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AsitChandraRoy" height="30" width="40" /></a>
 <a href="https://twitter.com/asitchandraroy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asit-Chandra" height="30" width="40" /></a>
-<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Asit-Chandra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AsitChandraRoy" height="30" width="40" /></a>
+<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="AsitChandraRoy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Asit-Chandra" height="30" width="40" /></a>
-<a href="https://www.behance.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Asit-Chandra" height="30" width="40" /></a>
+<a href="https://dribbble.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="AsitChandraRoy" height="30" width="40" /></a>
+<a href="https://www.behance.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="AsitChandraRoy" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
@@ -64,7 +64,7 @@ Skills:  JavaScript / BOOTSTRAP / REACT / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=Asit-Chandra&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun18/Java-Project)
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=AsitChandraRoy&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun18/Java-Project)
 
 <p align="left">
   <a href="https://github.com/harun11?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -78,17 +78,17 @@ Skills:  JavaScript / BOOTSTRAP / REACT / HTML / CSS
 
 <p align="center">
   <a href="https://github.com/AsitChandraRoy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asit-Chandra&theme=radical" alt="Asit's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsitChandraRoy&theme=radical" alt="Asit's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/AsitChandraRoy"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Asit-Chandra&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/AsitChandraRoy"><img alt="Asit's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Asit-Chandra&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/AsitChandraRoy"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AsitChandraRoy&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/AsitChandraRoy"><img alt="Asit's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AsitChandraRoy&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Asit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asit-Chandra&custom_title=Asit's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Asit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AsitChandraRoy&custom_title=Asit's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
