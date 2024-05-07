@@ -12,9 +12,9 @@ Skills:  JavaScript / BOOTSTRAP / REACT / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning with [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning HTML, CSS, JS, Bootstrap and so on regarding Frontend Development & Web design
 
 - 👨‍💻 All of my projects are available at [https://github.com/AsitChandraRoy](https://github.com/AsitChandraRoy)
 
