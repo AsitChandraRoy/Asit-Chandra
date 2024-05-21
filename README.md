@@ -31,10 +31,10 @@ Skills:  JavaScript / BOOTSTRAP / REACT / HTML / CSS
 <a href="https://twitter.com/asitchandraroy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/asit-chandra-barman-368446123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AsitChandraRoy" height="30" width="40" /></a>
 <a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="AsitChandraRoy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UClnOYEHaREeRi2Wrmb6vq_A/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
 <a href="https://www.instagram.com/asitchandrabarman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AsitChandraRoy" height="30" width="40" /></a>
-<a href="https://dribbble.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="AsitChandraRoy" height="30" width="40" /></a>
-<a href="https://www.behance.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="AsitChandraRoy" height="30" width="40" /></a>
+<a href="https://dribbble.com/AsitChandraBarman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="AsitChandraRoy" height="30" width="40" /></a>
+<a href="https://www.behance.net/asitchbarman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="AsitChandraRoy" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
