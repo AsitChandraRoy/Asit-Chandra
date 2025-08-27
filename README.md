@@ -14,11 +14,11 @@ Skills:  JavaScript / BOOTSTRAP / REACT / HTML / CSS
 
 - 🔭 I’m currently learning with [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning HTML, CSS, JS, Bootstrap, React JS, Next JS and so on regarding Frontend Development & Web design
+- 🌱 I’m currently learning HTML, CSS, Tailwind CSS, JS, Bootstrap, React JS, Next JS and so on regarding Frontend Development & Web design
 
 - 👨‍💻 All of my projects are available at (https://github.com/AsitChandraRoy)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, Tailwind CSS, JS, Bootstrap, React JS, Next JS**
 
 - 📫 How to reach me **asitchandraroy@gmail.com**
 
