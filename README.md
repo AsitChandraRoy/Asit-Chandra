@@ -1,8 +1,8 @@
-![I am AsitChandraRoy](https://github.com/harun181/harun181/blob/main/code.png)
+![I am AsitChandraRoy](https://github.com/AsitChandraRoy/code.png)
 
 <h1 align="center">Hi 👋, I'm Asit Chandra roy</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Learn with Hablu Programmer</h4>
+<h4 align="center"></h4>
 
 <div align="center">
 
@@ -14,9 +14,9 @@ Skills:  JavaScript / BOOTSTRAP / REACT / HTML / CSS
 
 - 🔭 I’m currently learning with [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning HTML, CSS, JS, Bootstrap and so on regarding Frontend Development & Web design
+- 🌱 I’m currently learning HTML, CSS, JS, Bootstrap, React JS, Next JS and so on regarding Frontend Development & Web design
 
-- 👨‍💻 All of my projects are available at [https://github.com/AsitChandraRoy](https://github.com/AsitChandraRoy)
+- 👨‍💻 All of my projects are available at (https://github.com/AsitChandraRoy)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
