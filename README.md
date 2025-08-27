@@ -1,4 +1,4 @@
-![I am AsitChandraRoy](https://github.com/AsitChandraRoy/Asit-Chandra/blob/main/code.png)
+![I am AsitChandraRoy](https://github.com/AsitChandraRoy/Asit-Chandra/blob/main/cod1.png)
 
 <h1 align="center">Hi 👋, I'm Asit Chandra roy</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
